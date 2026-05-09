@@ -2,7 +2,7 @@
 
 > Spring Boot 3.5 · PostgreSQL · Redis · Swagger · Docker · React/TypeScript · Mockito
 
-[![CI](https://github.com/YOUR_USERNAME/expense-tracker-v2/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/expense-tracker-v2/actions)
+
 
 ---
 
